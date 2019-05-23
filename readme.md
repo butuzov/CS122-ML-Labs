@@ -1,9 +1,9 @@
 
 # Machine Learning (Image Recognition) Labs
 
-* MLP on MNIST dataset using numpy
-* Softmax/MlP/CNN on FashionMNIST dataset using Keras/Tensorflow
-* CNN on CIFAR10 dataset using Keras/Tensorflow
+* MLP on MNIST dataset using `numpy`
+* Softmax/MLP/CNN on FashionMNIST dataset using `keras` and `tensorflow`
+* CNN on CIFAR10 dataset using `keras` and `tensorflow`
 
 
 ## Setting up
